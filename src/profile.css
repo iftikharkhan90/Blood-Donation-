@@ -1,0 +1,9 @@
+.profileBody{
+    margin-top: 10%;
+}
+/* .setBackground{
+    background-image: linear-gradient(rgb(162, 104, 104), rgb(12, 97, 97));
+} */
+.aboveStart{
+    background-image: linear-gradient(rgb(255, 255, 255,0.9), rgba(12, 66, 97));
+}

@@ -1,0 +1,54 @@
+.tipsBody{
+    margin-top: 10%;
+    background-color:#E7E7E7;
+    margin-bottom: 5%
+}
+.well-sm {
+    padding: 9px;
+    border-radius: 3px;
+}
+.well-sm h1 {
+    font-size: 36px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-weight: 800;
+    line-height: 1.1;
+    color: inherit;
+    margin: 0.67em 0;
+    text-align: center;
+}
+.blood-list {
+    list-style: none;
+    list-style-type: none;
+    list-style-position: initial;
+    list-style-image: initial;
+    padding-left: 0;
+}
+.well-sm ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.blood-list li {
+    background: url('./images/tipimg2.PNG' ) -1px 1px no-repeat;
+    margin: 10px 0;
+    padding: 3px 0 3px 20px;
+    line-height: 160%;
+    display: list-item;
+    text-align: -webkit-match-parent;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color:black;
+
+}
+.blood-list  strong {
+    font-weight: bold;
+}
+.strongHeading{
+   color: red;
+
+}
+.fullBody{
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));
+}

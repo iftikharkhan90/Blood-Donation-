@@ -1,0 +1,50 @@
+
+.uperbody{
+    background-image: linear-gradient(rgb(255, 255, 255,0.9), rgba(12, 66, 97));
+}
+.lowerbody{
+    margin-top: 10%;
+}
+.headers{
+    background-color: coral;
+    margin-bottom: 2%
+}
+.formList{
+    margin-bottom: 10%
+}
+.textstyle{
+color: rgba(36, 22, 165, 0.931)
+}
+.secondContainer{
+    background-color: rgb(181, 224, 216);
+   
+    margin-bottom: 5%
+}
+ .Donor {
+    position: relative;
+    box-shadow: 0px 0px 15px;
+    width: 100%;
+    border-radius: 2px;
+    margin: 15px 2px;
+    padding: 5px;
+    height:200px;
+}
+.more{
+    text-align: center
+}
+.noDonor{
+    margin-top: 3%;
+    font-size: 30px;
+    margin-bottom: 2%;
+    text-align: center;
+    /* width: 238%; */
+
+}
+.danamic{
+    color: green;
+    text-transform: capitalize;
+    
+}
+/* .noDonor nopara {
+    /* text-align: center ; */
+    
